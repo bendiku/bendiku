@@ -1,4 +1,4 @@
-<img align="left" alt="bendiku's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bendiku&show_icons=true&theme=radical&hide_border=true" />
+<img align="left" alt="bendiku's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=bendiku&show_icons=true&theme=github-dark&hide_border=true" />
 
 <!--
 **bendiku/bendiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
